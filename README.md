@@ -1,0 +1,2 @@
+# MPC1000_REVERSED
+JJOs decompile
